@@ -1,1 +1,1 @@
-# Auto---Comic-Downloader
+# Auto Comic Downloader
